@@ -1,1 +1,2 @@
 # Dragit
+Dragit is a simple Git client which is made for those wanting to version files other than source code. It allows the user to easily drag their changes to a staged state, add their comments and commit there changes with ease.
